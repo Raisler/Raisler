@@ -5,7 +5,6 @@
   <a href="https://twitter.com/VoigtRaisler">Twitter</a> •
   <a href="https://www.linkedin.com/in/raisler-voigt7/">Linkedin</a>
 </p>
-]
 
 - 🔭 I’m currently working on my knowledge, portfolio, personal projects.
 - 🌱 I’m currently learning about NLP, Data Visualization,Computer Vision and improving my programming skills 
