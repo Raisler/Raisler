@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/raisler-voigt7/">Linkedin</a>
 </p>
 
-- 🔭 I’m currently working on my knowledge, portfolio, personal projects.
+- 🔭 I’m currently working on my portfolio --> <a href='https://github.com/Raisler/DataScience_Portfolio'>Portfolio Link</a>
 - 🌱 I’m currently learning about NLP, Data Visualization,Computer Vision and improving my programming skills 
 - 💬 Ask me about for anything 
 - ⚡ Fun fact: I like One Piece
