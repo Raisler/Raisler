@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-<!--
-**Raisler/Raisler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.instagram.com/raislervoigt/">Instagram</a> •
+  <a href="https://twitter.com/VoigtRaisler">Twitter</a> •
+  <a href="https://www.linkedin.com/in/raisler-voigt7/">Linkedin</a>
+</p>
+]
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my knowledge, portfolio, personal projects.
+- 🌱 I’m currently learning about NLP, Data Visualization,Computer Vision and improving my programming skills 
+- 💬 Ask me about for anything 
+- ⚡ Fun fact: I like One Piece
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
