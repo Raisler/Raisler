@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/raisler-voigt7/">Linkedin</a>
 </p>
 - 🔭 I am Data Scientist, student of Big Data in Agribusiness and a python lover. <br>
-- 🔭 I’m currently working on my portfolio --> <a href='https://github.com/Raisler/DataScience_Portfolio/blob/master/README.md'>Portfolio Link</a> <br>
+- 🔭 I’m currently working at Hackr Ads and on my portfolio --> <a href='https://github.com/Raisler/DataScience_Portfolio/blob/master/README.md'>Portfolio Link</a> <br>
 - 🌱 I’m learning about Deep Learning, Computer Vision and improving my other skills<br>
 - 💬 Ask me about for anything <br>
 - ⚡ Fun fact: I Like History and Philosofy <br>
