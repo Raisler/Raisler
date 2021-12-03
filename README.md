@@ -9,5 +9,4 @@
 - 🔭 Working at CIAg --> <a href='https://www.ciag.org.br/'> Link</a> <br>
 - 🌱 I’m learning about Deep Learning, Computer Vision and improving my other skills<br>
 - 💬 Ask me about for anything <br>
-- ⚡ Fun fact: I Like History and Philosofy <br>
 
