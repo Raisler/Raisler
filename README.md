@@ -7,6 +7,6 @@
 </p>
 - 🔭 I am Data Scientist, Python Developer, Blockchain Enthusiast <br>
 - 🔭 Working at CIAg --> <a href='https://www.ciag.org.br/'> Link</a> <br>
-- 🌱 I’m learning about Deep Learning, Computer Vision, Rust, Blockchain <br>
+- 🌱 I’m learning about Deep Learning, Computer Vision, Rust, Blockchain, Bioinformatics <br>
 - 💬 Ask me about for anything <br>
 
